@@ -15,15 +15,15 @@
 
 각 폴더는 백준 문제 번호로 구성되어 있으며, Java로 필수 풀이하고 일부 문제는 Python으로도 추가 풀이합니다.
 
-## 푼 문제
+## 최근 푼 문제 (5개)
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
-| [2480](https://www.acmicpc.net/problem/2480) | 주사위 세개 | Bronze 4 |
-| [11021](https://www.acmicpc.net/problem/11021) | A+B - 7 | Bronze 5 |
-| [11022](https://www.acmicpc.net/problem/11022) | A+B - 8 | Bronze 5 |
-| [15552](https://www.acmicpc.net/problem/15552) | 빠른 A+B | Bronze 4 |
-| [25314](https://www.acmicpc.net/problem/25314) | 코딩은 체육과목 입니다 | Bronze 5 |
-| ...
+| [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | Bronze 5 |
+| [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | Bronze 5 |
+| [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | Bronze 5 |
+| [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | Bronze 4 |
+| [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | Bronze 4 |
+
 ---
 
