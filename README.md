@@ -19,11 +19,11 @@
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
+| [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | Bronze 3 |
+| [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | Bronze 5 |
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | Bronze 5 |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | Bronze 5 |
 | [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | Bronze 5 |
-| [2439](https://www.acmicpc.net/problem/2439) | 별 찍기 - 2 | Bronze 4 |
-| [2438](https://www.acmicpc.net/problem/2438) | 별 찍기 - 1 | Bronze 4 |
 
 ---
 
