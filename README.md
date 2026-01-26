@@ -19,11 +19,11 @@
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
+| [10810](https://www.acmicpc.net/problem/10810) | 공넣기 | Bronze 3 |
+| [2562](https://www.acmicpc.net/problem/2562)   | 최댓값 | Bronze 3 |
 | [10818](https://www.acmicpc.net/problem/10818) | 최소, 최대 | Bronze 3 |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 | Bronze 5 |
 | [10807](https://www.acmicpc.net/problem/10807) | 개수 세기 | Bronze 5 |
-| [10951](https://www.acmicpc.net/problem/10951) | A+B - 4 | Bronze 5 |
-| [10952](https://www.acmicpc.net/problem/10952) | A+B - 5 | Bronze 5 |
 
 ---
 
