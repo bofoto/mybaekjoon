@@ -19,11 +19,11 @@
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
+| [10813](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze 5 |
+| [10810](https://www.acmicpc.net/problem/1546)  | 평균 | Bronze 1 |
 | [10811](https://www.acmicpc.net/problem/2562)  | 바구니 뒤집기 | Bronze 2 |
 | [3052](https://www.acmicpc.net/problem/3052)   | 나머지 | Bronze 2 |
 | [5597](https://www.acmicpc.net/problem/5597)   | 과제 안 내신 분..? | Bronze 3 |
-| [10813](https://www.acmicpc.net/problem/10813) | 공 바꾸기 | Bronze 2 |
-| [10810](https://www.acmicpc.net/problem/10810) | 공 넣기 | Bronze 3 |
 
 ---
 
