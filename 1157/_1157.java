@@ -5,10 +5,10 @@ import java.io.InputStreamReader;
 public class _1157 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String S = br.readLine();
+        String S = br.readLine().toUpperCase();
         int[] num = new int[26];
         for (int i = 0; i < S.length(); i++) {
-            num[S.toUpperCase().charAt(i) - 65]++;
+            num[S.charAt(i) - 65]++;
         }
 
         int max = 0;
