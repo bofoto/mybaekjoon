@@ -19,11 +19,11 @@
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
-| [9086](https://www.acmicpc.net/problem/9086)   | 문자열 | Bronze 5 |
-| [2743](https://www.acmicpc.net/problem/2743)   | 단어 길이 제기 | Bronze 5 |
-| [10813](https://www.acmicpc.net/problem/27866) | 문자와 문자열 | Bronze 5 |
-| [10810](https://www.acmicpc.net/problem/1546)  | 평균 | Bronze 1 |
-| [10811](https://www.acmicpc.net/problem/2562)  | 바구니 뒤집기 | Bronze 2 |
+| [11005](https://www.acmicpc.net/problem/11005)  | 진법 변환 2 | Bronze 1 |
+| [2745](https://www.acmicpc.net/problem/2745)    | 진법 변환 | Bronze 2 |
+| [2563](https://www.acmicpc.net/problem/2563)    | 색종이 | Silver 5 |
+| [10798](https://www.acmicpc.net/problem/10798)  | 세로읽기 | Bronze 1 |
+| [2566](https://www.acmicpc.net/problem/2566)    | 최댓값 | Bronze 3 |
 
 ---
 
