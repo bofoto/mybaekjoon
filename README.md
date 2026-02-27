@@ -19,11 +19,11 @@
 
 | 문제 번호 | 문제 이름 | 난이도 |
 |---------|---------|-------|
+| [2720](https://www.acmicpc.net/problem/2720)    | 세탁소 사장 동혁 | Bronze 3 |
 | [11005](https://www.acmicpc.net/problem/11005)  | 진법 변환 2 | Bronze 1 |
 | [2745](https://www.acmicpc.net/problem/2745)    | 진법 변환 | Bronze 2 |
 | [2563](https://www.acmicpc.net/problem/2563)    | 색종이 | Silver 5 |
 | [10798](https://www.acmicpc.net/problem/10798)  | 세로읽기 | Bronze 1 |
-| [2566](https://www.acmicpc.net/problem/2566)    | 최댓값 | Bronze 3 |
 
 ---
 
